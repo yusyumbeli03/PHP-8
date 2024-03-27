@@ -1,0 +1,15 @@
+name: Aliona
+age: 20
+email: yusyumbeli03@gmail.com
+message: Good opinion about you ;)
+
+name: Aliona
+age: 20
+email: yusyumbeli03@gmail.com
+message: good
+
+name: Vadim
+age: 17
+email: vadim07@mail.ru
+message: хорошее мнение!
+
