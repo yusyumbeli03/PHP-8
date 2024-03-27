@@ -7,8 +7,10 @@
     <link rel="stylesheet" href="views/components/style.css">
 </head>
 <body>
-<?php include('views/components/header.php'); ?>
-<?php include('views/components/form.php'); ?>
-<?php include('views/components/footer.php'); ?>
+<?php
+include('views/components/header.php');
+include('views/components/form.php');
+include('views/components/footer.php');
+?>
 </body>
 </html>
